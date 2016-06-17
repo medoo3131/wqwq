@@ -23,12 +23,12 @@ libjansson-dev libpython-dev expat libexpat1-dev
 
 #step3 : writ >
 
-git clone https://github.com/mustafaflux/superflux-bot.git
+git clone https://github.com/medoo3131/wqwq/.git
 
 
 #step4 : Writ >
 
-cd superflux-bot
+cd wqwq
 
 
 
